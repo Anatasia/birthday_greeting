@@ -3,3 +3,14 @@
 
 # Ignore Gradle build output directory
 build
+target/
+.tomcat/
+.idea/
+*.iml
+*.ipr
+*.iwscheckstyle.cache
+BuildRelease/
+.ideaDataSources
+.sonar
+.shelf*
+.swp
